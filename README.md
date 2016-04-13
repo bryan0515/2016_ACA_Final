@@ -16,7 +16,7 @@ Use PGM to extract the acoustic feature from singer.
 We will try to use two classifiers to see which has better performance. 
   * Muti Layer Perceptron
   * Decision Tree
-* Vocal Extraction
+* Vocal Extraction 
 Reference to: [Teensy-Audio-Effect-Remove-Vocals](https://github.com/FrankBoesing/Teensy-Audio-Effect-Remove-Vocals)
 
 ##Project Management
